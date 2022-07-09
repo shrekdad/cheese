@@ -1,5 +1,5 @@
 
-_pin_#中考数学满分，加油。
+_pin_#eat your own dog food.
 
 _key_mode_#1
 
