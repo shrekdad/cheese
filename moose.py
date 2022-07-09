@@ -1,5 +1,10 @@
 
-_pin_#eat your own dog food.
+_pin_
+#
+- M71 = 数学7年级上册
+- XTZ = 学习、探究、诊断
+- P = page
+- N = number
 
 _key_mode_#1
 
