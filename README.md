@@ -1,5 +1,9 @@
 # cheese
 
+flashcard maker and more
+
+# features
+
 - flashcard format and parser
 - Sorting by status
 - Quiz and bonus
@@ -15,6 +19,6 @@
 
 # files
 
-- eel: English words and notes
 - cow: flashcards for Chinese
+- eel: English words and notes
 - moose: tracker for math worksheets
