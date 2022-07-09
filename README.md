@@ -1,10 +1,10 @@
-## cheese
+# cheese
 
 - flashcard maker
 - word builder
 - tracker for worksheets
 
-# features
+## features
 
 - flashcard format and parser
 - Sorting by status
@@ -13,7 +13,12 @@
 - Support URL / voice / canvas
 - Python for Chinese pinyin processor
 
-# files
+## todo
+
+- code review for card and parser
+- tags and keyword filters
+
+## files
 
 - cow: flashcards for Chinese
 - eel: English words and notes
