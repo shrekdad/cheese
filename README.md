@@ -1,8 +1,8 @@
 # cheese
 
-- [x] Format and parser
-- [x] Sorting by status
-- [x] Quiz and bonus
+- Format and parser
+- Sorting by status
+- Quiz and bonus
 
-- [x] Support URL / voice / canvas
-- [x] Python for pinyin processor
+- Support URL / voice / canvas
+- Python for pinyin processor
