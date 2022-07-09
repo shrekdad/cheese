@@ -15,5 +15,6 @@
 
 # files
 
-- eel: for english words and notes
+- eel: English words and notes
+- cow: flashcards for Chinese
 - moose: tracker for math worksheets
