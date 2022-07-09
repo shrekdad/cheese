@@ -1,7 +1,6 @@
 # cheese
 
-- Flashcard maker
-- Format and parser
+- flashcard format and parser
 - Sorting by status
 - Quiz and bonus
 
@@ -10,11 +9,11 @@
 
 # usages
 
-- notes
+- flashcard maker
 - word builder
-- index list for worksheet
+- tracker for worksheets
 
 # files
 
-- eel: for english words and misc
-- moose: index for math worksheet
+- eel: for english words and notes
+- moose: tracker for math worksheets
