@@ -1,6 +1,8 @@
-# cheese
+## cheese
 
-flashcard maker and more
+- flashcard maker
+- word builder
+- tracker for worksheets
 
 # features
 
@@ -10,12 +12,6 @@ flashcard maker and more
 
 - Support URL / voice / canvas
 - Python for Chinese pinyin processor
-
-# usages
-
-- flashcard maker
-- word builder
-- tracker for worksheets
 
 # files
 
