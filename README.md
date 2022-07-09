@@ -10,7 +10,7 @@
 - Sorting by status
 - Quiz and bonus
 
-- Support URL / voice / canvas
+- Support URL / multiline text
 - Python for Chinese pinyin processor
 
 ## todo
