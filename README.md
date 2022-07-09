@@ -1,15 +1,16 @@
 # cheese
 
+- Flashcard maker
 - Format and parser
 - Sorting by status
 - Quiz and bonus
 
 - Support URL / voice / canvas
-- Python for pinyin processor
+- Python for Chinese pinyin processor
 
 # usages
 
-- flashcard maker
+- notes
 - word builder
 - index list for worksheet
 
