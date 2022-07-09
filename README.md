@@ -7,7 +7,7 @@
 - Support URL / voice / canvas
 - Python for pinyin processor
 
-# usage
+# usages
 
 - flashcard maker
 - word builder
