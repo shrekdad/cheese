@@ -590,5 +590,6 @@ determine#决定；决心
 in addition#另外；此外
 incapable#没有能力的
 
+church#教堂
 decoration#装饰（名词）
 decorate#装饰（动词）
