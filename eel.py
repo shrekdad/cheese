@@ -2,12 +2,8 @@ _key_mode_#1
 
 _pin_
 #
-- 复习
-/
-- 语法填空
-- 完形填空/阅读
-/
-- 测验
+- Subject/Grade-Book-Page-Number
+- example: E-BJ2021-P115-N3
 
 'index list
 _lang_code_#0
