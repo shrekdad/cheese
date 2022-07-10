@@ -9,6 +9,14 @@ _key_mode_#0
 _lang_code_#0
 _auto_voice_#0
 
+Linda will help you with your physics if she ... time. 
+- have 
+- had 
+- has 
+- will have 
+#
+has 
+
 -Hurry up, ... you will be late for school.
 /
 - or 
@@ -589,3 +597,6 @@ incapable#没有能力的
 church#教堂
 decoration#装饰（名词）
 decorate#装饰（动词）
+
+among#在...当中
+divide#分开
