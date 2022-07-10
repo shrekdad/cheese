@@ -18,11 +18,13 @@ Python for Chinese pinyin processor
   
 ### todo
 
+update *cow* for Grade 7-1
+
 code review for card and parser  
 keyword filter (include / exclude / and / or)
 
 ### eat your own dog food
 
-*cow*: flashcards for Chinese  
 *eel*: flashcards for English  
-*moose*: tracker for math worksheets  
+*cow*: flashcards for Chinese  
+*mule*: tracker for math worksheets  

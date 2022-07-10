@@ -1,7 +1,8 @@
 _pin_
 #
-- Subject/Grade-Book-Page-Number
-- example: E-BJ2021-P115-N3
+- word
+- grammar
+- etc 
 
 '
 _key_mode_#0
