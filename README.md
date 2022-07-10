@@ -1,6 +1,7 @@
 # cheese
 
-flashcards maker and tracker for worksheets.
+flashcards maker  
+tracker for worksheets.
 
 ### eat your own dog food
 
