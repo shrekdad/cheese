@@ -15,7 +15,11 @@
 - Sorting by status
 - Quiz and bonus
 
-- Support URL / multiline text
+- Support multiline text
+- Support voice
+- Support link
+
+- canvas tool
 - Python for Chinese pinyin processor
 
 ### todo
