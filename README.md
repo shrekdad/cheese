@@ -1,8 +1,13 @@
 # cheese
 
-- flashcard maker
-- word builder
+- flashcards
 - tracker for worksheets
+
+## eat your own dog food
+
+- cow: flashcards for Chinese
+- eel: flashcards for English
+- moose: tracker for math worksheets
 
 ## features
 
@@ -16,10 +21,5 @@
 ## todo
 
 - code review for card and parser
-- tags and keyword filters
-
-## files
-
-- cow: flashcards for Chinese
-- eel: English words and notes
-- moose: tracker for math worksheets
+- support tags
+- keyword filter
