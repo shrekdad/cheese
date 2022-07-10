@@ -1,13 +1,13 @@
 # cheese
 
 flashcards maker  
-tracker for worksheets.
+tracker for worksheets
 
 ### eat your own dog food
 
-cow: flashcards for Chinese  
-eel: flashcards for English  
-moose: tracker for math worksheets  
+*cow*: flashcards for Chinese  
+*eel*: flashcards for English  
+*moose*: tracker for math worksheets  
 
 ### features
 
