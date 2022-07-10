@@ -8,7 +8,7 @@ _pin_
 /
 - 测验
 
-'语法杂项
+'杂项
 _key_mode_#0
 _lang_code_#0
 _auto_voice_#0
@@ -70,7 +70,7 @@ Our life ... a lot since we moved to a new country.
 #
 has changed 
 
-'单词短语
+'单词
 _key_mode_#1
 _lang_code_#1
 _auto_voice_#2

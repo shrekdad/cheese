@@ -1,15 +1,15 @@
 # cheese
 
-- flashcards
+- flashcards maker
 - tracker for worksheets
 
-## eat your own dog food
+### eat your own dog food
 
 - cow: flashcards for Chinese
 - eel: flashcards for English
 - moose: tracker for math worksheets
 
-## features
+### features
 
 - flashcard format and parser
 - Sorting by status
@@ -18,7 +18,7 @@
 - Support URL / multiline text
 - Python for Chinese pinyin processor
 
-## todo
+### todo
 
 - code review for card and parser
 - support tags
