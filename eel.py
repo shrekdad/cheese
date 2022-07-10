@@ -1,23 +1,72 @@
-_key_mode_#1
-
 _pin_
 #
 - Subject/Grade-Book-Page-Number
 - example: E-BJ2021-P115-N3
 
-'index list
+'
+_key_mode_#0
 _lang_code_#0
 _auto_voice_#0
 
-E-BJ2021-P115-N3#C
-E-BJ2021-P115-N8#B
-E-BJ2021-P115-N9#C
+-Hurry up, ... you will be late for school.
+/
+- or 
+- and 
+- so 
+- but 
+#
+or 
 
-E-BJ2021-P121-N4#A
-E-BJ2021-P121-N5#B
-E-BJ2021-P121-N11#B
+- Mr. Smith, ... I finish reading this book today?
+- No, you needn't. Tomorrow is OK.
+/
+- would 
+- must 
+- may 
+- can 
+#
+must 
 
-'words list
+Something ... by our teachers for our coming back to school last month.
+/
+- did 
+- was done 
+- do 
+- is done 
+#
+was done 
+
+- John, ... does it take you to go to school everyday?
+- About half an hour. 
+/
+- how far 
+- how often 
+- how long 
+- how old 
+#
+how long
+
+-- Sarah, what's your mum doing?
+- She ... in the kitchen. 
+/
+- cooks
+- is cooking 
+- has cooked 
+- will cook 
+#
+is cooking 
+
+-Our life ... a lot since we moved to a new country. 
+/
+- changes 
+- changed 
+- has changed 
+- will change 
+#
+has changed 
+
+'
+_key_mode_#1
 _lang_code_#1
 _auto_voice_#2
 
