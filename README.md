@@ -27,4 +27,4 @@ keyword filter (include / exclude / and / or)
 
 *cow*: flashcards for Chinese  
 *eel*: flashcards for English  
-*mule*: tracker for math worksheets  
+*moose*: tracker for math worksheets  
