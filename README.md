@@ -16,8 +16,8 @@
 - Quiz and bonus
 
 - Support multiline text
-- Support voice
-- Support link
+- Support TTS
+- Support URL
 
 - canvas tool
 - Python for Chinese pinyin processor
