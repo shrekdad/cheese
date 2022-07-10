@@ -477,7 +477,6 @@ once#曾经；一次；一旦
 look for#寻找
 look forward to...#期待
 lift#举起；提升
-decorate#装饰
 judge#判断；判决
 satellite#卫星
 industry#工业
@@ -578,15 +577,3 @@ precious#珍贵的
 anniversary#周年
 replace#替代；替换
 own up#承认
-
-inspiration#灵感；启发
-evident#明显的
-alert#警觉；警报
-surrounding#环境
-snap#啪一声；拍照；快照
-struggle#奋斗
-situation#情况；状况
-indeed#真正的；事实上
-determine#决定；决心
-in addition#另外；此外
-incapable#没有能力的
