@@ -1,7 +1,6 @@
 # cheese
 
-flashcards maker  
-tracker for worksheets
+flashcards maker and tracker for worksheets
 
 ### features
 
@@ -19,8 +18,7 @@ Python for Chinese pinyin processor
 ### todo
 
 code review for card and parser  
-support tags  
-keyword filter  
+keyword filter (include / exclude / and / or)
 
 ### eat your own dog food
 
