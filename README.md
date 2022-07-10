@@ -25,6 +25,6 @@ keyword filter (include / exclude / and / or)
 
 ### eat your own dog food
 
-*eel*: flashcards for English  
 *cow*: flashcards for Chinese  
+*eel*: flashcards for English  
 *mule*: tracker for math worksheets  
