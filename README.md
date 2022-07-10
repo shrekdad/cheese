@@ -1,7 +1,7 @@
 # cheese
 
-- flashcards maker
-- tracker for worksheets
+flashcards maker  
+tracker for worksheets
 
 ### features
 
