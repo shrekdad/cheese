@@ -8,6 +8,8 @@ tracker for worksheets
 *cow*: flashcards for Chinese  
 *eel*: flashcards for English  
 *moose*: tracker for math worksheets  
+  
+*they are not python script but the flashcard file.*
 
 ### features
 
