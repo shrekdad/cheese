@@ -25,8 +25,8 @@ Python for Chinese pinyin processor
 ### todo
 
 colorful grid and new toolbar  
-update *cow* for Chinese(C71)
 
+update *cow* for Chinese(C71)  
 code review for card and parser  
 support tag
 support filter
