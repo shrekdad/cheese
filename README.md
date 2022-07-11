@@ -9,7 +9,7 @@ tracker for worksheets
 *eel*: flashcards for English  
 *moose*: tracker for math worksheets  
   
-*they are not python script but the flashcard file, which make them looks better in 3rd editor.*
+*they are not python script but the flashcard files, which make them look better in 3rd editor.*
 
 ### features
 
