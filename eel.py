@@ -1,8 +1,8 @@
 _pin_
 #
-- word
 - grammar
-- etc 
+- words
+- writing
 
 '
 _key_mode_#0
@@ -10,14 +10,18 @@ _lang_code_#0
 _auto_voice_#0
 
 Linda will help you with your physics if she ... time. 
+/
 - have 
 - had 
 - has 
 - will have 
 #
 has 
+/
+主句：将来时态（will）
+从句：一般时态（she三单 - has）
 
--Hurry up, ... you will be late for school.
+Hurry up, ... you will be late for school.
 /
 - or 
 - and 
@@ -25,6 +29,8 @@ has
 - but 
 #
 or 
+/
+or = 否则
 
 - Mr. Smith, ... I finish reading this book today?
 - No, you needn't. Tomorrow is OK.
@@ -35,6 +41,8 @@ or
 - can 
 #
 must 
+/
+根据答案推问题
 
 Something ... by our teachers for our coming back to school last month.
 /
@@ -44,6 +52,12 @@ Something ... by our teachers for our coming back to school last month.
 - is done 
 #
 was done 
+/
+主谓宾：something was done 
+介词by：被谁...
+介词for：为了...
+by our teachers => 被动语气
+last month => 过去式
 
 - John, ... does it take you to go to school everyday?
 - About half an hour. 
@@ -54,8 +68,10 @@ was done
 - how old 
 #
 how long
+/
+根据答案推问题
 
--- Sarah, what's your mum doing?
+- Sarah, what's your mum doing?
 - She ... in the kitchen. 
 /
 - cooks
@@ -64,8 +80,10 @@ how long
 - will cook 
 #
 is cooking 
+/
+怎么问怎么答（doing）
 
--Our life ... a lot since we moved to a new country. 
+Our life ... a lot since we moved to a new country. 
 /
 - changes 
 - changed 
@@ -73,6 +91,8 @@ is cooking
 - will change 
 #
 has changed 
+/
+介词since：从...时候开始一直到现在。句子要用是完成时态。
 
 '
 _key_mode_#1
