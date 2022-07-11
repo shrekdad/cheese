@@ -3,6 +3,12 @@
 flashcards maker  
 tracker for worksheets
 
+### eat your own dog food
+
+*cow*: flashcards for Chinese  
+*eel*: flashcards for English  
+*moose*: tracker for math worksheets  
+
 ### features
 
 flashcard format and parser  
@@ -18,13 +24,8 @@ Python for Chinese pinyin processor
 
 ### todo
 
-update *cow* for Grade 7-1
+update *cow* for Chinese(C71)
 
 code review for card and parser  
-keyword filter (include / exclude / and / or)
-
-### eat your own dog food
-
-*cow*: flashcards for Chinese  
-*eel*: flashcards for English  
-*moose*: tracker for math worksheets  
+support tag
+support filter
