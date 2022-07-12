@@ -98,3 +98,28 @@ Our life ... a lot since we moved to a new country.
 has changed 
 /
 介词since：从...时候开始一直到现在。句子要用是完成时态。
+
+Miss Wang is very kind, we all like ...
+/
+- her 
+- him 
+- you 
+- them 
+#
+her 
+/
+她的主格、宾格、所有格。
+
+- Must I hand in my book report this afternoon?
+- No, you ..., you can hand it in next Monday. 
+/
+- needn't 
+- wouldn't 
+- mustn't 
+- shouldn't 
+#
+needn't 
+/
+- must/need 问答搭配
+- mustn't = 禁止；绝对不允许
+- needn't = 不必
