@@ -1,9 +1,5 @@
 _pin_#English Grammar
 
-_key_mode_#0
-_lang_code_#0
-_auto_voice_#0
-
 '
 
 Bill is a good student and he studies ... than anyone else in his class. 

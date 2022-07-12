@@ -1,11 +1,8 @@
+_pin_#Math Worksheet Tracker
+
 _key_mode_#1
 
-_pin_
-#
-- M71：数学七年级上
-- XTZ：学探诊
-- P：页码
-- N：题号
+'
 
 M71-XTZ-P1-N2
 正数和负数

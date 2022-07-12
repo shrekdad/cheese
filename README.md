@@ -5,10 +5,10 @@ tracker for worksheets
 
 ### eat your own dog food
 
+*math*: tracker for math worksheets  
 *eng-w*: flashcards for English words  
 *eng-g*: flashcards for English grammar  
 *chn*: flashcards for Chinese  
-*math*: tracker for math worksheets  
   
 *they are not python script but the flashcard files, which make them look better in 3rd editor.*
 
