@@ -526,4 +526,4 @@ decoration#装饰（名词）
 decorate#装饰（动词）
 
 among#在...当中
-divide#分开
+divide#分开；除以
