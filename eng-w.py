@@ -529,3 +529,20 @@ among#在...当中
 divide#分开；除以
 
 or#或者；否则
+
+preparation#准备
+discoveries#发现（复数）
+separate#分开
+arrange#安排
+manage#管理；尝试
+praise#表扬
+check#检查（动词）；支票（名词）
+lean#倾斜
+head#头（名词）；朝向，走向（动词）
+chain#链条
+grip#紧抓（动词）；手柄（名词）
+pile#堆
+junk#垃圾
+junk pile#垃圾堆
+tire#轮胎
+stare#盯着；凝视
