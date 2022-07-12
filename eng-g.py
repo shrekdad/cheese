@@ -37,17 +37,6 @@ has
 主句：将来时态（will）
 从句：一般时态（she三单 - has）
 
-Hurry up, ... you will be late for school.
-/
-- or 
-- and 
-- so 
-- but 
-#
-or 
-/
-or = 否则
-
 - Mr. Smith, ... I finish reading this book today?
 - No, you needn't. Tomorrow is OK.
 /

@@ -527,3 +527,5 @@ decorate#装饰（动词）
 
 among#在...当中
 divide#分开；除以
+
+or#或者；否则
