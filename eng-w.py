@@ -299,7 +299,6 @@ respect#尊重
 direction#方向
 decision#决定（名词）
 competition#竞争；比赛（名词）
-praise#表扬
 advice#建议；忠告
 device#设备
 since then#从此之后
@@ -546,3 +545,6 @@ junk#垃圾
 junk pile#垃圾堆
 tire#轮胎
 stare#盯着；凝视
+
+mask#面具；口罩
+abroad#国外
