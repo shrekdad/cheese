@@ -23,7 +23,7 @@ than => 形容词比较级
 #
 why you like painting 
 /
-问题作为句子的宾语，要去掉助动词。
+问题作为句子的宾语，要把疑问句改为陈述句。（有助动词要去掉；will/can等要重新归位）
 
 Linda will help you with your physics if she ... time. 
 /
