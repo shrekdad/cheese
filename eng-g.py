@@ -123,3 +123,26 @@ needn't
 - must/need 问答搭配
 - mustn't = 禁止；绝对不允许
 - needn't = 不必
+
+A new music club ... in our school next year. 
+/
+- starts
+- is started
+- will start
+- will be started
+#
+will be started
+/
+被动语气 + 将来时态
+
+- Tina, could you tell me ... Beijing?
+- Sure. Last Friday.
+/
+- when Tony left 
+- when Tony will leave 
+- when did Tony leave 
+- when will Tony leave 
+#
+when Tony left 
+/
+问题作为句子的宾语 + 过去式
