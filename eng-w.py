@@ -540,7 +540,7 @@ lean#倾斜
 head#头（名词）；朝向，走向（动词）
 chain#链条
 grip#紧抓（动词）；手柄（名词）
-pile#堆
+pile#堆（名词；动词）
 junk#垃圾
 junk pile#垃圾堆
 tire#轮胎
@@ -548,3 +548,12 @@ stare#盯着；凝视
 
 mask#面具；口罩
 abroad#国外
+
+supplies#supply
+branch#树枝；分支；分店
+dug#dig
+track#踪迹、跑道（名词）；跟踪（动词）
+shelter#避难所
+deed#行为
+
+duty#义务、税（关税）

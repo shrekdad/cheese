@@ -27,10 +27,10 @@ Python for Chinese pinyin processor
 
 ### todo
 
-better sorting
-colorful grid and new toolbar  
+remote index file?
 
-update *chn* for Chinese(C71)  
+colorful grid and new toolbar  
 code review for card and parser  
 support tag
 support filter
+edit status with selection
