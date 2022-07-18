@@ -30,7 +30,8 @@ Python for Chinese pinyin processor
 remote index file?
 
 colorful grid and new toolbar  
+edit status with selection
+
 code review for card and parser  
 support tag
 support filter
-edit status with selection
