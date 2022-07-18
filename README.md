@@ -1,28 +1,26 @@
 # cheese
 
-flashcards maker  
-tracker for worksheets
+yet another flashcards maker  
 
 ### eat your own dog food
 
-*math*: tracker for math worksheets  
-*eng-w*: flashcards for English words  
-*eng-g*: flashcards for English grammar  
-*chn*: flashcards for Chinese  
-  
+*eng-w*: English words  
+*eng-g*: English grammar  
+*chn*: Chinese  
+*math*: math
+
 *they are not python script but the flashcard files, which make them look better in 3rd editor.*
 
 ### features
 
 flashcard format and parser  
-Sorting by status  
-Quiz and bonus  
+sorting by status  
+quiz and bonus  
 
-Support multiline text  
-Support TTS  
-Support URL  
+support multiline text  
+support TTS  
+support URL  
   
-canvas tool  
 Python for Chinese pinyin processor  
 
 ### todo
