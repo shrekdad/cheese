@@ -10,7 +10,7 @@ yet another flashcards maker
 *chn-r*: Chinese Reading  
 *math*: Math related
 
-*they are not python script but the flashcard files, ".py" will make them look better in 3rd editor.*
+*they are not python scripts but the flashcard files, ".py" will make them look better in 3rd editor.*
 
 ### features
 
@@ -26,8 +26,7 @@ Chinese pinyin processor (as Python script)
 
 ### todo
 
-colorful grid and new toolbar  
-edit status with selection
+remote index file  
 
 code review for card and parser  
 support tag

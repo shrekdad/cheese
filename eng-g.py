@@ -182,3 +182,14 @@ now -> is having (现在进行时)
 was taken 
 /
 照片是被拍的，被动语气：be + 过去分词
+
+John usually gets up at seven ... the morning. 
+/
+- on 
+- at 
+- in 
+- of 
+#
+in 
+/
+in + (morning, afternoon, evening, night)
