@@ -557,3 +557,13 @@ shelter#避难所
 deed#行为
 
 duty#义务、税（关税）
+
+hardship#艰难；苦难
+sense#感觉（名词）
+pillow#枕头
+perfection#perfect + tion
+waist#腰
+expand#扩展
+injury#伤害
+injuries#injury复数 = 伤害
+chase#追赶

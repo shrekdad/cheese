@@ -146,3 +146,39 @@ will be started
 when Tony left 
 /
 问题作为句子的宾语 + 过去式
+
+She likes tennis and she thinks it's ... of all sports.
+/
+- interesting 
+- more interesting
+- most interesting
+- the most interesting
+#
+the most interesting
+/
+the + 形容词最高级
+最高级的独一无二，要加the。
+
+- Where is Mr. Smith?
+- He ... a meeting at the office now. 
+/
+- is having 
+- had 
+- has 
+- will have 
+#
+is having
+/
+now -> is having (现在进行时)
+
+- Who is the boy in the picture?
+- Haha! It's me! The picture ... ten years ago.
+/
+- takes 
+- took 
+- was taken 
+- is taken 
+#
+was taken 
+/
+照片是被拍的，被动语气：be + 过去分词

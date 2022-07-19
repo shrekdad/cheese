@@ -25,6 +25,7 @@ Python for Chinese pinyin processor
 
 ### todo
 
+sound for redeem bonus
 remote index file?
 
 colorful grid and new toolbar  
