@@ -22,7 +22,7 @@ support multiline text
 support TTS  
 support URL  
   
-Chinese pinyin processor (as Python script)
+Chinese pinyin processor (as Python script)  
 
 ### todo
 
