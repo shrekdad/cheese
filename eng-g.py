@@ -193,3 +193,28 @@ John usually gets up at seven ... the morning.
 in 
 /
 in + (morning, afternoon, evening, night)
+
+The Spring Festival will be ... February 16th this year. 
+/
+- at 
+- on 
+- in 
+- of 
+#
+on 
+/
+in：大于一天（年、季节、月）。另外别忘记morning、afternoon、evening、night这几个特殊情况。
+on：等于一天，或者特定的某一天。
+at：小于一天，比如at 3:00 PM
+
+- Which season do you like ..., spring or summer?
+- Spring.
+/
+- well 
+- better 
+- best 
+- the best 
+#
+best
+/
+这里的best是修饰like这个动词，表示最喜欢，不是作为形容词最高级修饰名词，如果修饰名词那就需要加the，比如：the best boy in this class.

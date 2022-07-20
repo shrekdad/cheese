@@ -567,3 +567,6 @@ expand#扩展
 injury#伤害
 injuries#injury复数 = 伤害
 chase#追赶
+
+write done#写下
+housework#家务
