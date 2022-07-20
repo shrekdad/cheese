@@ -570,3 +570,5 @@ chase#追赶
 
 write done#写下
 housework#家务
+
+crayon#蜡笔；粉笔
