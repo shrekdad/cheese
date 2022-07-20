@@ -568,7 +568,7 @@ injury#伤害
 injuries#injury复数 = 伤害
 chase#追赶
 
-write done#写下
+write down#写下
 housework#家务
 
 crayon#蜡笔；粉笔
