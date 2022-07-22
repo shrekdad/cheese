@@ -26,8 +26,6 @@ Chinese pinyin processor (as Python script)
 
 ### todo
 
-remote index file  
-
 code review for card and parser  
 support tag
 support filter
