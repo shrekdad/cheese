@@ -1,4 +1,4 @@
-_pin_#Math Worksheet Tracker
+_pin_#Tracker for Math Worksheet
 _key_mode_#1
 
 '
