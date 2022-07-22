@@ -6,8 +6,7 @@ yet another flashcards maker
 
 *eng-w*: English Words  
 *eng-g*: English Grammar  
-*chn-b*: Chinese Basic  
-*chn-r*: Chinese Reading  
+*chn*: Chinese related
 *math*: Math related
 
 *they are not python scripts but the flashcard files, ".py" will make them look better in 3rd editor.*
