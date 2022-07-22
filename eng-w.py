@@ -34,7 +34,7 @@ instruction#指示；指令
 interaction#互动
 achieve#实现；完成
 coin#钱币
-side#边；面
+side#边；面；（名词）站在...一边；支持（动词）
 treatment#治疗（名词）
 require#要求；需要；
 trust#信任
@@ -572,3 +572,6 @@ write down#写下
 housework#家务
 
 crayon#蜡笔；粉笔
+
+siding#side的动名词，side：站在...一边，支持。
+hung#hang的过去分词：悬挂
