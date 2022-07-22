@@ -1,6 +1,4 @@
 
-'
-
 Bill is a good student and he studies ... than anyone else in his class. 
 /
 - hard 

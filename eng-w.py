@@ -1,4 +1,3 @@
-_pin_#English Words
 
 _key_mode_#1
 _lang_code_#1
