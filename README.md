@@ -27,5 +27,5 @@ Chinese pinyin processor (as Python script)
 ### todo
 
 code review for card and parser  
-support tag
-support filter
+support tag  
+support filter  
