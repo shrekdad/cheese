@@ -5,9 +5,9 @@ yet another flashcards maker
 ### eat your own dog food
 
 *eng-w*: English Words  
-*eng-g*: English Grammar  
-*chn*: Chinese related
-*math*: Math related
+*eng-g*: Notes for English  
+*chn*: Tracker for Chinese worksheet  
+*math*: Notes for Math  
 
 *they are not python scripts but the flashcard files, ".py" will make them look better in 3rd editor.*
 
