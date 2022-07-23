@@ -227,7 +227,7 @@ in
 /
 write in English
 speak in Chinese 
-使用说明语言，要用介词in。
+使用什么语言，要用介词in。
 
 but the next day, we started to climb on one of the peaks(山顶). ... it was not that straight and high, I was still excited.
 #
