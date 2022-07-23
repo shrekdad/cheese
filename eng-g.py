@@ -232,3 +232,5 @@ speak in Chinese
 but the next day, we started to climb on one of the peaks(山顶). ... it was not that straight and high, I was still excited.
 #
 Though
+/
+根据上下文的逻辑，应该是“虽然”“但是”的关系。
