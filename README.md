@@ -25,6 +25,8 @@ Chinese pinyin processor (as Python script)
 
 ### todo
 
+web layer
 code review for card and parser  
+
 support tag  
 support filter  
