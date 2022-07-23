@@ -215,3 +215,20 @@ at：小于一天，比如at 3:00 PM
 best
 /
 这里的best是修饰like这个动词，表示最喜欢，不是作为形容词最高级修饰名词，如果修饰名词那就需要加the，比如：the best boy in this class.
+
+We need to finish writing a book review ... English this weekend.
+/
+- in 
+- at 
+- off 
+- by 
+#
+in 
+/
+write in English
+speak in Chinese 
+使用说明语言，要用介词in。
+
+but the next day, we started to climb on one of the peaks(山顶). ... it was not that straight and high, I was still excited.
+#
+Though

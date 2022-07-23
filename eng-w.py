@@ -574,3 +574,5 @@ crayon#蜡笔；粉笔
 
 siding#side的动名词，side：站在...一边，支持。
 hung#hang的过去分词：悬挂
+
+humorous#幽默的
