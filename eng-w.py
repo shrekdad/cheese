@@ -576,3 +576,10 @@ siding#side的动名词，side：站在...一边，支持。
 hung#hang的过去分词：悬挂
 
 humorous#幽默的
+applause#鼓掌（名词）
+gaze#凝视
+inner#内心的；内部的
+symbolize#象征（动词）
+communication#交流、沟通
+deserve#应得
+thoughtful#深思的

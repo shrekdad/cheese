@@ -235,3 +235,53 @@ but the next day, we started to climb on one of the peaks(山顶). ... it was no
 Though
 /
 根据上下文的逻辑，应该是“虽然”“但是”的关系。
+
+- Tom, I can't find my dictionary!
+- Don't worry. You can use ...
+/
+- I 
+- me 
+- my 
+- mine 
+#
+mine 
+/
+my = 我的（形容词）
+mine = 我的东西（名词）
+
+代词汇总：
+/
+主语：I 
+宾语：me 
+所有格：my 
+所有格名词：mine
+#
+you you your yours 
+he him his his 
+she her her hers 
+they them their theirs
+we us our ours 
+
+We don't think teenagers should be allowed to drive because they are not ... enough.
+/
+- serious 
+- more serious 
+- most serious 
+- the most serious 
+#
+serious 
+/
+not serious enough = 不够严谨
+没有比较的意思的，不需要形容词比较级和最高级，原型即可。
+
+When I was young, my mother ... by my side all the time.
+/
+- stays 
+- is staying 
+- stayed 
+- will stay 
+#
+stayed
+/
+when I was young：可知谈论的是过去的事情
+
