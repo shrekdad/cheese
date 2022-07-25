@@ -468,7 +468,7 @@ permission#允许
 picky#挑剔的
 manner#行为举止
 unwillingly#不情愿地
-expect#期待
+expect#期待；预料
 sink#下沉
 stomach#胃；肚子
 scoop#勺子；舀取
@@ -583,3 +583,9 @@ symbolize#象征（动词）
 communication#交流、沟通
 deserve#应得
 thoughtful#深思的
+
+picture#想象；照片（名词）；想象（动词）
+doughnut#甜甜圈
+order#命令、订单、秩序
+worse#更糟
+rose#玫瑰

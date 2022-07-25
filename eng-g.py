@@ -285,3 +285,16 @@ stayed
 /
 when I was young：可知谈论的是过去的事情
 
+- What were you doing at 8 o'clock yesterday evening?
+- I ... my homework. 
+/
+- do 
+- did 
+- was doing 
+- am doing 
+#
+was doing 
+/
+what were you doing?
+怎么问怎么答
+
