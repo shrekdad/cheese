@@ -25,5 +25,5 @@ Chinese pinyin processor (as Python script)
 
 ### todo
 
-code review for card and parser  
-support tag and filter  
+bug-fix: better screenshot for canvas  
+address bar with history list  
