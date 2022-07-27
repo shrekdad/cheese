@@ -12,7 +12,7 @@ has
 主句：将来时态（will）
 从句：一般时态（she三单 - has）
 
-We don't drive to the mountains tomorrow if it ....
+We won't drive to the mountains tomorrow if it ....
 /
 - snows 
 - will snow 

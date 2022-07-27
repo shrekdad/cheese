@@ -614,3 +614,4 @@ operation#操作；手术（名词）
 return#返回
 license#执照
 driver's license#驾照
+call#呼叫；打电话；召唤
