@@ -1,5 +1,28 @@
 _pin_#Notes for English
 
+Linda will help you with your physics if she ... time. 
+/
+- have 
+- had 
+- has 
+- will have 
+#
+has 
+/
+主句：将来时态（will）
+从句：一般时态（she三单 - has）
+
+We don't drive to the mountains tomorrow if it ....
+/
+- snows 
+- will snow 
+- snowed 
+- is snowing 
+#
+snows
+/
+主句will，从句一般，三单
+
 Bill is a good student and he studies ... than anyone else in his class. 
 /
 - hard 
@@ -22,18 +45,6 @@ than => 形容词比较级
 why you like painting 
 /
 问题作为句子的宾语，要把疑问句改为陈述句。（有助动词要去掉；will/can等要重新归位）
-
-Linda will help you with your physics if she ... time. 
-/
-- have 
-- had 
-- has 
-- will have 
-#
-has 
-/
-主句：将来时态（will）
-从句：一般时态（she三单 - has）
 
 - Mr. Smith, ... I finish reading this book today?
 - No, you needn't. Tomorrow is OK.
@@ -303,15 +314,4 @@ what were you doing?
 was watching 
 /
 at that time = 在那个时候，我当时正在干什么。过去进行式
-
-We don't drive to the mountains tomorrow if it ....
-/
-- snows 
-- will snow 
-- snowed 
-- is snowing 
-#
-snows
-/
-主句will，从句一般，三单
 
