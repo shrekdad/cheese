@@ -292,3 +292,26 @@ was doing
 what were you doing?
 怎么问怎么答
 
+- Hi, Henry. I called you last night, but you didn't answer.
+- Sorry. I ... TV at that time. 
+/
+- watch 
+- watched 
+- am watching 
+- was watching 
+#
+was watching 
+/
+at that time = 在那个时候，我当时正在干什么。过去进行式
+
+We don't drive to the mountains tomorrow if it ....
+/
+- snows 
+- will snow 
+- snowed 
+- is snowing 
+#
+snows
+/
+主句will，从句一般，三单
+

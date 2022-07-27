@@ -605,3 +605,9 @@ sacrifice#牺牲
 admit#承认
 rather#宁愿
 probably#可能地
+
+won't#will not
+media#媒体
+medical#医学的
+cyclist#骑车的人
+operation#操作；手术（名词）
