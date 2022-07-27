@@ -25,5 +25,4 @@ Chinese pinyin processor (as Python script)
 
 ### todo
 
-bug-fix: better screenshot for canvas  
 address bar with history list  

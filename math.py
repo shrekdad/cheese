@@ -73,5 +73,9 @@ a
 '
 #M71-C1-5-有理数的乘方
 
+_enable_html_#1
+a<sup>n<sup>#a的n次方
+_enable_html_#0
+
 '
 #/
