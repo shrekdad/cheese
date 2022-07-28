@@ -615,3 +615,7 @@ return#返回
 license#执照
 driver's license#驾照
 call#呼叫；打电话；召唤
+
+repair#修理
+poster#海报
+hallway#过道
