@@ -532,7 +532,7 @@ preparation#准备
 discoveries#发现（复数）
 separate#分开
 arrange#安排
-manage#管理；尝试
+manage#管理；完成
 praise#表扬
 check#检查（动词）；支票（名词）
 lean#倾斜

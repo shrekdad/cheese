@@ -25,4 +25,5 @@ Chinese pinyin processor (as Python script)
 
 ### todo
 
+full text search
 address bar with history list  
