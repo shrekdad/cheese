@@ -6,8 +6,8 @@ yet another flashcards maker
 
 *eng-w*: English Words  
 *eng-g*: Notes for English  
-*chn*: Tracker for Chinese worksheet  
 *math*: Notes for Math  
+*chn*: Tracker for Chinese worksheet  
 
 *they are not python scripts but the flashcard files, ".py" will make them look better in 3rd editor.*
 
@@ -24,6 +24,8 @@ support URL
 Chinese pinyin processor (as Python script)  
 
 ### todo
+
+default problem number (30 for English words)
 
 full text search
 address bar with history list  
