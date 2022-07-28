@@ -25,8 +25,8 @@ Chinese pinyin processor (as Python script)
 
 ### todo
 
-default problem number (30 for English words)
-
 full text search
+review card/cfg/parser
+
 address bar with history list  
 refresh list with one tap  
