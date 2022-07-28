@@ -27,3 +27,4 @@ Chinese pinyin processor (as Python script)
 
 full text search
 address bar with history list  
+refresh list with one tap  
