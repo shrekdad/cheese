@@ -619,3 +619,5 @@ call#呼叫；打电话；召唤
 repair#修理
 poster#海报
 hallway#过道
+just as...#就像
+just as they did before.#就像他们之前做的那样
