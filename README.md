@@ -5,7 +5,7 @@ yet another flashcards maker
 ### eat your own dog food
 
 *eng-w*: English Words  
-*eng-g*: Notes for English  
+*eng-g*: English Grammar  
 *math*: Notes for Math  
 *chn*: Tracker for Chinese worksheet  
 
@@ -25,9 +25,9 @@ Chinese pinyin processor (as Python script)
 
 ### todo
 
-full text search  
 address bar with history list  
 refresh list with one tap  
 
 review card/cfg/parser  
+full text search  
 swift chart  
