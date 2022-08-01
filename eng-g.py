@@ -290,18 +290,9 @@ stayed
 /
 when I was young：可知谈论的是过去的事情
 
-- What were you doing at 8 o'clock yesterday evening?
-- I ... my homework. 
-/
-- do 
-- did 
-- was doing 
-- am doing 
 #
-was doing 
-/
-what were you doing?
-怎么问怎么答
+#过去进行式
+#
 
 - Hi, Henry. I called you last night, but you didn't answer.
 - Sorry. I ... TV at that time. 
@@ -315,3 +306,28 @@ was watching
 /
 at that time = 在那个时候，我当时正在干什么。过去进行式
 
+My mother ... some washing when the telephone rang. 
+/
+- does
+- did 
+- is doing 
+- was doing 
+#
+was doing 
+
+- What were you doing at 8 o'clock yesterday evening?
+- I ... my homework. 
+/
+- do 
+- did 
+- was doing 
+- am doing 
+#
+was doing 
+/
+what were you doing?
+怎么问怎么答
+
+#
+#/
+#
