@@ -291,7 +291,7 @@ stayed
 when I was young：可知谈论的是过去的事情
 
 #
-#过去进行式
+# 过去进行式
 #
 
 - Hi, Henry. I called you last night, but you didn't answer.
@@ -329,5 +329,5 @@ what were you doing?
 怎么问怎么答
 
 #
-#/
+# /
 #
