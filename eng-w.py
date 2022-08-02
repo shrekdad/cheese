@@ -632,3 +632,5 @@ flowery#花的
 attentively#专注地
 private#私人的；个人的
 turnaround#转身
+
+set#放置 = set the table；设定；（动词）一套 = a set of...（名词）
