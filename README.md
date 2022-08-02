@@ -25,10 +25,9 @@ Chinese pinyin processor (as Python script)
 
 ### todo
 
-swift chart  
+chart  
 
 address bar with history list  
 refresh list with one tap  
 
-review card/cfg/parser  
 full text search  
