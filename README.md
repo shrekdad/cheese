@@ -25,9 +25,12 @@ Chinese pinyin processor (as Python script)
 
 ### todo
 
+review format and parser  
+
 chart  
+full text search  
 
 address bar with history list  
 refresh list with one tap  
 
-full text search  
+
